@@ -1,0 +1,2 @@
+class SkyblockParserException(Exception):
+    pass

@@ -1,0 +1,4 @@
+py-cord
+requests
+lilyweight
+psutil

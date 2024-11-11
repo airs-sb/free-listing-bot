@@ -2,4 +2,4 @@ py-cord
 requests
 lilyweight
 psutil
-skyblockparser-main
+.\skyblockparser-main

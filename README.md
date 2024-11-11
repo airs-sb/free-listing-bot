@@ -55,3 +55,5 @@ This is a hypixel listing bot that uses the [Hypixel API](https://developer.hypi
 - `/tag-add` | Add a tag.
 - `/tag-remove` | Remove a tag.
 - `/restart` | Restart the bot and pull update files.
+## Unhappy With The Bot?
+> Message [@airterm](https://discord.com/users/1292032485601050667) to purchase a premium version of the bot.

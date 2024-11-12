@@ -12,6 +12,7 @@ This is a hypixel listing bot that uses the [Hypixel API](https://developer.hypi
 - Run the main bot using `python bot.py`
 - To setup the listing bot, add the manager bot to your guild & use /create
 - To update your bot, put your update files in /files folder and run /restart in the bot.
+- To use the skyblock listing, you need to run this [API](https://github.com/airs-sb/skyhelper-networth)
 ## Contribution
 - To customise the listing embeds, go /utils and choose the embed you wish to edit.
 - To customise the panel embeds click on the cogs, and directly edit them.

@@ -8,6 +8,7 @@ This is a hypixel listing bot that uses the [Hypixel API](https://developer.hypi
 - Make a virtual environment using `python -m venv listing` (**THIS IS IMPORTANT**)
 - Activate it using `.\listing\scripts\activate`
 - Install packages using `pip install -r reqs.txt`
+- Install the parser using `pip install ./skyblockparser-main`
 - Enter your discord bot token and owner ID in `config.json`
 - Run the main bot using `python bot.py`
 - To setup the listing bot, add the manager bot to your guild & use /create
